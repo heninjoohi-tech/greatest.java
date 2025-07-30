@@ -11,7 +11,7 @@ public class conditionalexample {
         } else if (c > a && c > b) {
             System.out.println("c is the greatest: " + c);
         } else {
-            System.out.println("Two or more numbers are equal and greatest.");
+            System.out.println("Invalid number");
         }
     }
 }
